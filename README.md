@@ -54,6 +54,7 @@
   - [Quick start (vLLM AR, single GPU)](#quick-start-vllm-ar-single-gpu)
   - [PC-side deployment via llama.cpp](#pc-side-deployment-via-llamacpp)
 - [📖 Documentation](#-documentation)
+- 🌐 Community (#-community)
 - [📚 Citation](#-citation)
 
 ## 📖 Introduction
@@ -334,9 +335,16 @@ see [`docs/llama_cpp.md`](docs/llama_cpp.md) for the complete guide.
 - [`docs/llama_cpp.md`](docs/llama_cpp.md) — PC-side deployment with llama.cpp (base model & upstream DFlash)
 - [`docs/benchmark.md`](docs/benchmark.md) — end-to-end speed benchmark
 
+🌐 Community
+
+Third-party projects built on HunyuanOCR-1.5:
+
+- HunyuanOCR-Local-Text-Spotting-Service (https://github.com/hhprince/HunyuanOCR-Local-Text-Spotting-Service)
+  — self-hosted OCR service (CUDA / Ascend NPU) with character-level accuracy A/B tooling.
+
 ---
 
-## 📚 Citation
+📚 Citation
 
 ```bibtex
 @article{HunyuanOCR_1_5_2026,
